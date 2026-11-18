@@ -1,0 +1,11 @@
+planet_name,planet_type,coverage_pct,radius_Rearth,planet_photons_s
+Earth-like,Rocky Earth-like,1.0,1.0,1.2780049057763623e+29
+Earth-like,Rocky Earth-like,1.0,2.0,5.112019623105449e+29
+Earth-like,Rocky Earth-like,42.57,1.0,5.440466883889974e+30
+Earth-like,Rocky Earth-like,42.57,2.0,2.1761867535559897e+31
+Earth-like,Rocky Earth-like,71.0,1.0,9.073834831012171e+30
+Earth-like,Rocky Earth-like,71.0,2.0,3.6295339324048684e+31
+Ocean world,Ocean world,57.14,1.0,7.302520031606133e+30
+Ocean world,Ocean world,57.14,2.0,2.9210080126424533e+31
+Ocean world,Ocean world,100.0,1.0,1.2780049057763622e+31
+Ocean world,Ocean world,100.0,2.0,5.112019623105449e+31
